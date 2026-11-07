@@ -97,15 +97,3 @@ streamlit run app.py
 > Answer: The introduction highlights... **(example.pdf, page 1)**
 
 ---
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-## 📬 Contact
-
-Made with ❤️ by [aimaster-dev](https://github.com/aimaster-dev). Contributions welcome!
-
----
